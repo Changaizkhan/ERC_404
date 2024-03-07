@@ -1,0 +1,9 @@
+{
+  "sandboxId": "resonant-doctoroctopus-6fd16773",
+  "chainId": 15355,
+  "rpcUrl": "https://rpc.buildbear.io/resonant-doctoroctopus-6fd16773",
+  "faucetUrl": "https://faucet.buildbear.io/resonant-doctoroctopus-6fd16773",
+  "explorerUrl": "https://explorer.buildbear.io/resonant-doctoroctopus-6fd16773",
+  "verificationUrl": "https://api.buildbear.io/v1/api/verify/etherscan/resonant-doctoroctopus-6fd16773",
+  "forkingChainId": 11155111
+}
